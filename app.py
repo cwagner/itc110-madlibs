@@ -26,6 +26,7 @@ def madlibstory():
         'adj1': request.form['adj1'],
         'adj2': request.form['adj2'],
         'adj3': request.form['adj3'],
+        'adj4': request.form['adj4'],
     }
     return render_template('story.html', context=context)
 
