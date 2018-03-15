@@ -1,0 +1,59 @@
+#form {
+    margin:auto;
+}
+div #container {
+    width:360px;
+}
+header {
+    text-align:center;
+}
+h1 {
+    font-size:4em;
+}
+h2 {
+    width:250px;
+    margin:auto;
+    padding:20px;
+    font-size:3em;
+}
+form {
+    margin:auto;
+    width:540px;
+    background-color: lightblue;
+    border:1px solid #000; 
+}
+legend {
+    padding:.5em;
+    background-color: aquamarine;
+    border:1px solid #000;
+}
+fieldset {
+    margin:auto;
+    width:300px;
+    background-color: aquamarine;
+}
+label {
+    display: block;
+}
+.submit {
+    margin-left:120px;
+    margin-bottom:30px;
+    width:300px;
+    line-height:3em;
+    background-color: gold; 
+}
+
+/* story.html CSS */
+#story {
+    margin:auto;
+    width:900px;
+    background-color: lightblue;
+}
+h3 {
+    width:900px;
+    margin:auto;
+}
+.content {
+    padding:1em;
+    border:1px solid #000;
+}
